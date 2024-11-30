@@ -1,6 +1,6 @@
-# E-Health Management Hub
+# HealthSphere
 
-Welcome to E-Health Management Hub, a comprehensive Hospital Management System web application developed with React, Express, Node, and PostgreSQL. This system is designed to streamline hospital operations, enhance communication between patients and healthcare providers, and ensure efficient management of healthcare-related activities.
+Welcome to HealthSphere, a comprehensive Hospital Management System web application developed with React, Express, Node, and PostgreSQL. This system is designed to streamline hospital operations, enhance communication between patients and healthcare providers, and ensure efficient management of healthcare-related activities.
 
 ## Features
 
